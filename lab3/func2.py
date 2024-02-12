@@ -133,8 +133,6 @@ def cateaverg(category):
 
             li2.append(k)
     
-
-
     return averg(li2)
 
 # print(cateaverg('War'))

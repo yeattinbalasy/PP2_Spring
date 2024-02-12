@@ -121,8 +121,8 @@ def histogram(li):
         print()
 # histogram([1,5,9])
 
-#13 my game
 
+#13 my game
 
 print('Hello! What is your name?')
 name = input()
