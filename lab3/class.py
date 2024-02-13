@@ -1,6 +1,7 @@
 # i decided to make all task in 1 file beacuse varibles are visible by their classes and there no same class names
 # all the commented initalisations are made to check how code works
 #i separeted all task by '------'
+
 # 1 task 
 class stringer:
     def __init__(self, string):
